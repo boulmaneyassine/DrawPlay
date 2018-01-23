@@ -1,3 +1,5 @@
+package tp.git;
+
 import java.awt.Graphics;
 
 import javax.swing.JFrame;

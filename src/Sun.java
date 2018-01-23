@@ -1,10 +1,12 @@
+package tp.git;
+
 import java.awt.Color;
 import java.awt.Graphics;
 import java.awt.Graphics2D;
 
 public class Sun {
 
-	private static final int RAYON = 50;
+	private static final int RAYON = 500;
 
 	public void draw(Graphics g, int mouseX, int mouseY) {
 		Graphics2D g2 = (Graphics2D) g;
